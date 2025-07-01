@@ -5,7 +5,6 @@ OverBit is a client-server based anti-cheat system that requires the player to r
 This allows you to:
 
 -Block cheat usage before verification is complete.
-
 -Ban players based on their HWID.
 
 🔧 How does it work?
